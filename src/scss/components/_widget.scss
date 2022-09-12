@@ -12,6 +12,10 @@
 	.ant-card-body {
 		padding: 16px;
 		position: relative;
+		border-radius: 16px;
+		background: linear-gradient(145deg, #ececec, #ffffff);
+		box-shadow:  5px 5px 10px #ececec,
+					 -5px -5px 10px #ffffff;
 	}
 	.ant-statistic {
 		margin-right: 50px;
